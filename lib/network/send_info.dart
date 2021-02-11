@@ -11,3 +11,4 @@ class SendInfo {
 
   Map<String, dynamic> toJson() => _$SendInfoToJson(this);
 }
+// chore: note 2021-02-11T07:36:29
