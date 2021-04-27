@@ -381,4 +381,3 @@ class _AppBarSectionViewState extends State<AppBarSectionView> {
     );
   }
 }
-// chore: note 2021-04-05T16:45:28
