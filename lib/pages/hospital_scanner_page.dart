@@ -25,3 +25,4 @@ class HospitalScannerPage extends StatelessWidget {
     ));
   }
 }
+// chore: note 2021-05-24T06:21:37
