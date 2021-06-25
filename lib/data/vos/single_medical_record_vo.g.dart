@@ -47,4 +47,3 @@ Map<String, dynamic> _$SingleMedicalRecordVOToJson(
       'doctor_name': instance.doctorName,
       'hospital_clinic_name': instance.hospitalName,
     };
-// chore: note 2026-04-17T20:55:07
