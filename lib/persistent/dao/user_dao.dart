@@ -129,4 +129,3 @@ class DoctorInfoDAO {
     PrefInstance.getSharedPreferences.remove(kPatientIdKey);
   }
 }
-// chore: note 2021-08-04T14:44:29
