@@ -26,3 +26,4 @@ class RecordsByDateDataAgentImpl extends RecordsByDateDateAgent {
           .map((event) => event)
           .first;
 }
+// chore: note 2021-12-20T07:05:23
