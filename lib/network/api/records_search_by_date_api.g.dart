@@ -91,4 +91,3 @@ class _MedicalRecordsByDateAPI implements MedicalRecordsByDateAPI {
     return Uri.parse(dioBaseUrl).resolveUri(url).toString();
   }
 }
-// chore: note 2022-04-19T22:49:24
