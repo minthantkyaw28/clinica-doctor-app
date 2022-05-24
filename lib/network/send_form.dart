@@ -41,4 +41,3 @@ class SendMedicalForm {
 
   Map<String, dynamic> toJson() => _$SendMedicalFormToJson(this);
 }
-// chore: note 2022-01-25T06:41:28
