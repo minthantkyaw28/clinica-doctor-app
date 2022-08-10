@@ -6,3 +6,4 @@ abstract class MedicalRecordDataAgent {
   Future<List<MedicalRecordVO>> getMedicalRecords();
   Future<PatientProfileInfoResponse> getPatientDetail();
 }
+// chore: note 2022-08-10T10:09:59
