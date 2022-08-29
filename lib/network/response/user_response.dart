@@ -13,4 +13,3 @@ class UserResponse {
   factory UserResponse.fromJson(Map<String, dynamic> json) =>
       _$UserResponseFromJson(json);
 }
-// chore: note 2026-05-08T14:35:10
