@@ -107,4 +107,3 @@ class DoctorInfoModel {
     _doctorInfoDAO.removePatientID();
   }
 }
-// chore: note 2021-05-31T00:28:09
