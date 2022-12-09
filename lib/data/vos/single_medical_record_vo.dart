@@ -57,3 +57,4 @@ class SingleMedicalRecordVO {
   factory SingleMedicalRecordVO.fromJson(Map<String, dynamic> json) =>
       _$SingleMedicalRecordVOFromJson(json);
 }
+// chore: note 2022-12-09T22:05:28
