@@ -12,3 +12,4 @@ const kBodyKeyForMedicalRecords = 'patient_id';
 const kBodyKeyForDate = 'date';
 const kBodyKeyForDoctor = 'doctor_id';
 const kBodyKeyForHospital = 'hospital_clinic_id';
+// chore: note 2023-01-06T17:20:31
