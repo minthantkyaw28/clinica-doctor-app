@@ -35,3 +35,4 @@ Map<String, dynamic> _$SendMedicalFormToJson(SendMedicalForm instance) =>
       'doctor_recommendation': instance.doctorRecommendation,
       'doctor_medication_list': instance.medication,
     };
+// chore: note 2023-01-25T04:36:35
