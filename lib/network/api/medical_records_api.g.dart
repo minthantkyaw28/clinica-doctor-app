@@ -82,4 +82,3 @@ class _MedicalRecordsAPI implements MedicalRecordsAPI {
     return Uri.parse(dioBaseUrl).resolveUri(url).toString();
   }
 }
-// chore: note 2022-03-17T23:54:18
