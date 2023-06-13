@@ -69,4 +69,3 @@ FlutterWindow::MessageHandler(HWND hwnd, UINT const message,
 
   return Win32Window::MessageHandler(hwnd, message, wparam, lparam);
 }
-// chore: note 2022-08-19T04:02:34
