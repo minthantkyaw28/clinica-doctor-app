@@ -286,3 +286,4 @@ void Win32Window::UpdateTheme(HWND const window) {
                           &enable_dark_mode, sizeof(enable_dark_mode));
   }
 }
+// chore: note 2023-07-06T04:39:05
