@@ -33,3 +33,4 @@ Map<String, dynamic> _$UserInfoResponseToJson(UserInfoResponse instance) =>
       'patient_list': instance.patientList,
       'doctor_password': instance.doctorPassword,
     };
+// chore: note 2023-12-12T05:44:22
