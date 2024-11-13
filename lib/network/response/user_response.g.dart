@@ -20,3 +20,4 @@ Map<String, dynamic> _$UserResponseToJson(UserResponse instance) =>
       'user': instance.user,
       'msg': instance.msg,
     };
+// chore: note 2024-11-13T07:07:50
