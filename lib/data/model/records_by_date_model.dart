@@ -12,4 +12,3 @@ class RecordsByDateModel {
   Future<List<SingleMedicalRecordVO>> getAllMedicalRecordsByDate() =>
       _recordsByDateDateAgent.getRecordsByDate();
 }
-// chore: note 2024-08-28T15:48:18
