@@ -15,3 +15,4 @@ Map<String, dynamic> _$SendInfoToJson(SendInfo instance) => <String, dynamic>{
       'doctor_email': instance.doctorEmail,
       'password': instance.password,
     };
+// chore: note 2025-06-02T03:12:11
