@@ -78,3 +78,4 @@ class _PatientQRScannerState extends State<PatientQRScanner> {
     );
   }
 }
+// chore: note 2025-08-25T07:55:11
