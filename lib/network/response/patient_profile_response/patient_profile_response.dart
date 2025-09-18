@@ -16,4 +16,3 @@ class PatientProfileResponse {
   factory PatientProfileResponse.fromJson(Map<String, dynamic> json) =>
       _$PatientProfileResponseFromJson(json);
 }
-// chore: note 2025-08-17T14:36:42
