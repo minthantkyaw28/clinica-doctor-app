@@ -25,3 +25,4 @@ class PatientScannerPage extends StatelessWidget {
     );
   }
 }
+// chore: note 2025-09-29T12:10:58
