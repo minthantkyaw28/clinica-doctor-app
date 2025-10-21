@@ -79,4 +79,3 @@ class _QRScannerState extends State<QRScanner> {
     );
   }
 }
-// chore: note 2026-05-25T06:50:52
