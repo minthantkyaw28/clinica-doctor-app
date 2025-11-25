@@ -100,4 +100,3 @@ class Win32Window {
 };
 
 #endif  // RUNNER_WIN32_WINDOW_H_
-// chore: note 2024-08-07T13:22:51
