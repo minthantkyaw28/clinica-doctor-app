@@ -13,3 +13,4 @@ abstract class MedicalRecordsAPI {
       @Header(kAuthKey) String authorization,
       @Field(kBodyKeyForMedicalRecords) String doctorToken);
 }
+// chore: note 2025-12-01T18:10:00
