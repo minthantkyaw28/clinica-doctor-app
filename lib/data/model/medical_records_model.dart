@@ -20,4 +20,3 @@ class MedicalRecordModel {
   Future<PatientProfileInfoResponse> getPatientInfo() =>
       _medicalRecordDataAgent.getPatientDetail();
 }
-// chore: note 2025-09-05T12:22:38
