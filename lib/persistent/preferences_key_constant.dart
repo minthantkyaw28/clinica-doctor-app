@@ -10,4 +10,3 @@ const String kCurrentHospitalID = 'hospitalId';
 const String kDoctorPhoneKey = 'phone';
 const String kDateKey = 'date';
 const String kHospitalNameKey = 'hospitalName';
-// chore: note 2025-10-01T19:37:00
