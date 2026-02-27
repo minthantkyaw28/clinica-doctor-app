@@ -22,4 +22,3 @@ Map<String, dynamic> _$PatientProfileResponseToJson(
       'patient_profile': instance.patientProfile,
       'patient_medical_records': instance.medicalRecord,
     };
-// chore: note 2025-07-18T15:18:11
