@@ -35,4 +35,3 @@ class BottomNaviBar extends StatelessWidget {
     );
   }
 }
-// chore: note 2025-12-03T03:30:57
