@@ -20,4 +20,3 @@ class BackgroundView extends StatelessWidget {
     );
   }
 }
-// chore: note 2025-12-11T00:09:02
