@@ -18,3 +18,4 @@ const kPatientNameText = "Name   ";
 const kPatientAgeText = "Age   ";
 const kViewDetailText = "View Details";
 const kPatientRecordText = "Patient Records";
+// chore: note 2026-06-02T10:30:19
